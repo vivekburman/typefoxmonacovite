@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@codingame/esbuild-import-meta-url-plugin": "^1.0.3",
     "@codingame/monaco-vscode-go-default-extension": "^15.0.3",
     "@typefox/monaco-editor-react": "^6.6.0",
     "react": "^19.0.0",
